@@ -5,4 +5,5 @@ Este es un proyecto para practicar Git y GitHub
 - Diego Espinoza Picon
 - Joshua Chavez Cerna
 - Luis Morales Brenis
+- Aaron Bejar mallma
 
