@@ -6,4 +6,4 @@ Este es un proyecto para practicar Git y GitHub
 - Joshua Chavez Cerna
 - Luis Morales Brenis
 - Aaron Bejar mallma
-
+- Frank Cansaya Cutipa
